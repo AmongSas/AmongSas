@@ -1,6 +1,6 @@
-- Hi, I’m @AmongSas  Stanslav(irl)
-- I’m interested in frontend and python a bit
-- I’m currently learning pure JS, CSS, HTML5
+- Hi, I’m @AmongSas  AKA Stanslav
+- I’m interested in frontend and Python a bit
+- I’m currently learning pure JS, CSS, HTML5, Lua 5.1
 - How to reach me: 
     *stassorokopud@yandex.ru
     *current account is on github
